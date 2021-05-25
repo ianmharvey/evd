@@ -1,0 +1,48 @@
+[
+	{
+		"id": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+		"key": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+		"value": {
+			"rev": "4-a3cb40b3f9ba24ccdccc46f5943164b7"
+		},
+		"doc": {
+			"_id": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+			"_rev": "4-a3cb40b3f9ba24ccdccc46f5943164b7",
+			"country": "Finland",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.13,
+				0.3,
+				0.57,
+				0.97,
+				2.44,
+				5.72,
+				13.1,
+				24.7
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				267,
+				383,
+				836,
+				847,
+				847,
+				2275,
+				3451
+			]
+		}
+	}
+]

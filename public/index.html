@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="stylesheet" href="css/app.css">
+
+<title>Electric Vehicle Data</title>
+
+<script src="https://kit.fontawesome.com/a9b4c744df.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+<div class="grid">
+  <header>
+    <div class="container">
+      <nav>
+        <div class="logo"><img src="images/electric-vehicle.png" width="50" height="50" border="0" alt=""></div>
+        <ul>
+          <li>For demonstration purposes only</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="row">
+        <div>
+          <h1>Electric Vehicle Data</h1>
+				</div>
+			</div>
+
+			<div class="row">
+				<div>
+					
+						<label>Country</label>
+						<select class="select country" onchange="byCountry()">
+						</select>
+						</div>
+						<div>
+					
+						<label>Filter</label>
+						<select class="select filter" onchange="byCountry()">
+							<option value="">None</option>
+							<option value="electric_vehicle_stock_in_millions">Electric Vehicle Stock</option>
+							<option value="electric_vehicle_chargers">Electric Vehicle Chargers</option>
+						</select>
+
+				</div>
+			</div>
+
+			<div class="row">
+        <div>
+					<div class="country-name"></div>
+					<div><canvas class="chart1"></canvas></div>
+					<div><canvas class="chart2"></canvas></div>
+				</div>
+			</div>
+    </div>
+  </main>
+
+  <footer>
+    <div>
+      <ul>
+        <li>This site is for demonstration purposes only and is not affiliated with the OECD or IEA in any way. Data from the IEA.</li>
+      </ul>
+  </footer>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

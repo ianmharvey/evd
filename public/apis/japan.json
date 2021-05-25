@@ -1,0 +1,48 @@
+[
+	{
+		"id": "128cbfea214dfab8d4a1aab141bbd35b",
+		"key": "128cbfea214dfab8d4a1aab141bbd35b",
+		"value": {
+			"rev": "1-918d6ef961d17bbc12320a0cca92859f"
+		},
+		"doc": {
+			"_id": "128cbfea214dfab8d4a1aab141bbd35b",
+			"_rev": "1-918d6ef961d17bbc12320a0cca92859f",
+			"country": "Japan",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.02,
+				10.98,
+				25.11,
+				41.28,
+				55.47,
+				64.86,
+				100.86,
+				124.08,
+				141.68
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				312,
+				801,
+				1381,
+				1794,
+				11511,
+				22091,
+				24321,
+				28762,
+				29971,
+				30394
+			]
+		}
+	}
+]

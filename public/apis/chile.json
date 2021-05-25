@@ -1,0 +1,48 @@
+[
+	{
+		"id": "59b2c61a6ad6a6d8891c22c70a107bb5",
+		"key": "59b2c61a6ad6a6d8891c22c70a107bb5",
+		"value": {
+			"rev": "4-8ae9acde39d9a2d81ab0520940d3d3a9"
+		},
+		"doc": {
+			"_id": "59b2c61a6ad6a6d8891c22c70a107bb5",
+			"_rev": "4-8ae9acde39d9a2d81ab0520940d3d3a9",
+			"country": "Chile",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.01,
+				0.04,
+				0.05,
+				0.06,
+				0.13,
+				0.21
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				2,
+				10,
+				13,
+				18,
+				27,
+				27,
+				42,
+				70,
+				192
+			]
+		}
+	}
+]

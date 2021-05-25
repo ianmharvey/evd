@@ -1,0 +1,48 @@
+[
+	{
+		"id": "5d144778d0db4f3b9462df9e5429415c",
+		"key": "5d144778d0db4f3b9462df9e5429415c",
+		"value": {
+			"rev": "6-4b509f24c1a54efb485b0b20b1e223fb"
+		},
+		"doc": {
+			"_id": "5d144778d0db4f3b9462df9e5429415c",
+			"_rev": "6-4b509f24c1a54efb485b0b20b1e223fb",
+			"country": "Australia",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.08,
+				0.18,
+				1.13,
+				2.15,
+				2.85,
+				3.92,
+				5.72,
+				8.6
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				476,
+				727,
+				1930
+			]
+		}
+	}
+]

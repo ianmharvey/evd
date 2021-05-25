@@ -1,0 +1,14 @@
+{
+  "name": "evd",
+  "version": "1.0.0",
+  "description": "Electric vehicle data",
+  "main": "server.js",
+  "author": "Ian Harvey",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

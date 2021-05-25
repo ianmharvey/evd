@@ -1,0 +1,48 @@
+[
+	{
+		"id": "b1d5c0ddc29e642fca3526610e8915c1",
+		"key": "b1d5c0ddc29e642fca3526610e8915c1",
+		"value": {
+			"rev": "3-3ce30b72d4e17574ff502c0f3bbf4ac6"
+		},
+		"doc": {
+			"_id": "b1d5c0ddc29e642fca3526610e8915c1",
+			"_rev": "3-3ce30b72d4e17574ff502c0f3bbf4ac6",
+			"country": "France",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.1,
+				0.7,
+				1.53,
+				3.6,
+				9.28,
+				17.03,
+				25.82,
+				41.47,
+				60.02
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				809,
+				1802,
+				1814,
+				10445,
+				19618,
+				21184,
+				24132,
+				29701
+			]
+		}
+	}
+]

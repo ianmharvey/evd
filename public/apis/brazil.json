@@ -1,0 +1,48 @@
+[
+	{
+		"id": "bd42baf2947f1ffe242d7cb10bbba3fe",
+		"key": "bd42baf2947f1ffe242d7cb10bbba3fe",
+		"value": {
+			"rev": "4-6aa7dfe153d3b3805afab77304d2f638"
+		},
+		"doc": {
+			"_id": "bd42baf2947f1ffe242d7cb10bbba3fe",
+			"_rev": "4-6aa7dfe153d3b3805afab77304d2f638",
+			"country": "Brazil",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.03,
+				0.08,
+				0.36,
+				0.71,
+				2.08
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				459,
+				913
+			]
+		}
+	}
+]

@@ -1,0 +1,508 @@
+[
+	{
+		"id": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+		"key": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+		"value": {
+			"rev": "4-a3cb40b3f9ba24ccdccc46f5943164b7"
+		},
+		"doc": {
+			"_id": "0e783f9fbe30dc2eb02b2f3b4092ab80",
+			"_rev": "4-a3cb40b3f9ba24ccdccc46f5943164b7",
+			"country": "Finland",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.13,
+				0.3,
+				0.57,
+				0.97,
+				2.44,
+				5.72,
+				13.1,
+				24.7
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				267,
+				383,
+				836,
+				847,
+				847,
+				2275,
+				3451
+			]
+		}
+	},
+	{
+		"id": "128cbfea214dfab8d4a1aab141bbd35b",
+		"key": "128cbfea214dfab8d4a1aab141bbd35b",
+		"value": {
+			"rev": "1-918d6ef961d17bbc12320a0cca92859f"
+		},
+		"doc": {
+			"_id": "128cbfea214dfab8d4a1aab141bbd35b",
+			"_rev": "1-918d6ef961d17bbc12320a0cca92859f",
+			"country": "Japan",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.02,
+				10.98,
+				25.11,
+				41.28,
+				55.47,
+				64.86,
+				100.86,
+				124.08,
+				141.68
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				312,
+				801,
+				1381,
+				1794,
+				11511,
+				22091,
+				24321,
+				28762,
+				29971,
+				30394
+			]
+		}
+	},
+	{
+		"id": "256cf014e4d83fc130ab558318047ad1",
+		"key": "256cf014e4d83fc130ab558318047ad1",
+		"value": {
+			"rev": "3-fc87ee375013d8abd3b44320898d3c21"
+		},
+		"doc": {
+			"_id": "256cf014e4d83fc130ab558318047ad1",
+			"_rev": "3-fc87ee375013d8abd3b44320898d3c21",
+			"country": "Canada",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.3,
+				1.7,
+				3.18,
+				5.42,
+				8,
+				14.36,
+				22.33,
+				43.82,
+				62.38
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				724,
+				1179,
+				2321,
+				3424,
+				4035,
+				5841,
+				7940,
+				8951
+			]
+		}
+	},
+	{
+		"id": "59b2c61a6ad6a6d8891c22c70a107bb5",
+		"key": "59b2c61a6ad6a6d8891c22c70a107bb5",
+		"value": {
+			"rev": "4-8ae9acde39d9a2d81ab0520940d3d3a9"
+		},
+		"doc": {
+			"_id": "59b2c61a6ad6a6d8891c22c70a107bb5",
+			"_rev": "4-8ae9acde39d9a2d81ab0520940d3d3a9",
+			"country": "Chile",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.01,
+				0.04,
+				0.05,
+				0.06,
+				0.13,
+				0.21
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				2,
+				10,
+				13,
+				18,
+				27,
+				27,
+				42,
+				70,
+				192
+			]
+		}
+	},
+	{
+		"id": "5d144778d0db4f3b9462df9e5429415c",
+		"key": "5d144778d0db4f3b9462df9e5429415c",
+		"value": {
+			"rev": "6-4b509f24c1a54efb485b0b20b1e223fb"
+		},
+		"doc": {
+			"_id": "5d144778d0db4f3b9462df9e5429415c",
+			"_rev": "6-4b509f24c1a54efb485b0b20b1e223fb",
+			"country": "Australia",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.08,
+				0.18,
+				1.13,
+				2.15,
+				2.85,
+				3.92,
+				5.72,
+				8.6
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				476,
+				727,
+				1930
+			]
+		}
+	},
+	{
+		"id": "6747d1ba6703dd4ea7eaa527b18acb0e",
+		"key": "6747d1ba6703dd4ea7eaa527b18acb0e",
+		"value": {
+			"rev": "3-a2e97f68508910697d78780ee63e191f"
+		},
+		"doc": {
+			"_id": "6747d1ba6703dd4ea7eaa527b18acb0e",
+			"_rev": "3-a2e97f68508910697d78780ee63e191f",
+			"country": "Germany",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.24,
+				1.4,
+				3.02,
+				7.41,
+				18.52,
+				31.81,
+				50.47,
+				81.92,
+				112.35
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1518,
+				2447,
+				2722,
+				5058,
+				23901,
+				24014,
+				25724,
+				37063
+			]
+		}
+	},
+	{
+		"id": "90143bdcf74f10bb644cd26084586f92",
+		"key": "90143bdcf74f10bb644cd26084586f92",
+		"value": {
+			"rev": "3-99f2d1857c3a320fcbf020f93f28bddc"
+		},
+		"doc": {
+			"_id": "90143bdcf74f10bb644cd26084586f92",
+			"_rev": "3-99f2d1857c3a320fcbf020f93f28bddc",
+			"country": "China",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.34,
+				0.66,
+				0.92,
+				1.65,
+				25.92,
+				86.58,
+				165.58,
+				276.58,
+				541.8,
+				767.9
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				30000,
+				58758,
+				141254,
+				213903,
+				275000,
+				515908
+			]
+		}
+	},
+	{
+		"id": "a2f8a19481c03928b8eaa659a1e7c5c5",
+		"key": "a2f8a19481c03928b8eaa659a1e7c5c5",
+		"value": {
+			"rev": "3-54964560a9b720baaaffe7a5a2e502eb"
+		},
+		"doc": {
+			"_id": "a2f8a19481c03928b8eaa659a1e7c5c5",
+			"_rev": "3-54964560a9b720baaaffe7a5a2e502eb",
+			"country": "India",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.01
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				25,
+				247,
+				352,
+				1827
+			]
+		}
+	},
+	{
+		"id": "b063d964f5b1843a05903a1d48b37258",
+		"key": "b063d964f5b1843a05903a1d48b37258",
+		"value": {
+			"rev": "1-559c3c751498e4a0936d76af0980b8b4"
+		},
+		"doc": {
+			"_id": "b063d964f5b1843a05903a1d48b37258",
+			"_rev": "1-559c3c751498e4a0936d76af0980b8b4",
+			"country": "World",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.39,
+				9.43,
+				69.93,
+				161.48,
+				294.87,
+				515.87,
+				805.86,
+				1205.37,
+				1837.57,
+				2376.95
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				333,
+				339,
+				373,
+				3994,
+				12178,
+				31480,
+				48028,
+				105784,
+				183821,
+				332668,
+				434471,
+				537682,
+				862118
+			]
+		}
+	},
+	{
+		"id": "b1d5c0ddc29e642fca3526610e8915c1",
+		"key": "b1d5c0ddc29e642fca3526610e8915c1",
+		"value": {
+			"rev": "3-3ce30b72d4e17574ff502c0f3bbf4ac6"
+		},
+		"doc": {
+			"_id": "b1d5c0ddc29e642fca3526610e8915c1",
+			"_rev": "3-3ce30b72d4e17574ff502c0f3bbf4ac6",
+			"country": "France",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.1,
+				0.7,
+				1.53,
+				3.6,
+				9.28,
+				17.03,
+				25.82,
+				41.47,
+				60.02
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				809,
+				1802,
+				1814,
+				10445,
+				19618,
+				21184,
+				24132,
+				29701
+			]
+		}
+	},
+	{
+		"id": "bd42baf2947f1ffe242d7cb10bbba3fe",
+		"key": "bd42baf2947f1ffe242d7cb10bbba3fe",
+		"value": {
+			"rev": "4-6aa7dfe153d3b3805afab77304d2f638"
+		},
+		"doc": {
+			"_id": "bd42baf2947f1ffe242d7cb10bbba3fe",
+			"_rev": "4-6aa7dfe153d3b3805afab77304d2f638",
+			"country": "Brazil",
+			"electric_vehicle_stock_in_millions": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0.03,
+				0.08,
+				0.36,
+				0.71,
+				2.08
+			],
+			"electric_vehicle_chargers": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				459,
+				913
+			]
+		}
+	}
+]
