@@ -85,7 +85,7 @@ function Charts(stockArr, chargersArr) {
 }
 
 function byCountry() {
-	var x = "World"; // default
+	var x = "world"; // default
 	var y = "";
 
 	if (document.querySelector(".country").value) {
@@ -167,11 +167,11 @@ function init() {
     var option = ""; // country drop-down menu options
 
 		arr.map(item => (
-			option += "<option value=" + item.country + ">" + item.country + "</option>"  // populate country drop-down menu
+			option += "<option value=" + item.country.toLowerCase() + ">" + item.country + "</option>"  // populate country drop-down menu
 		));
 
     document.querySelector(".select").innerHTML = option;
-		document.querySelector(".select").value = "World"; // select 'World' in drop-down menu on load 
+		document.querySelector(".select").value = "world"; // select 'World' in drop-down menu on load 
   });
 
 	byCountry();
