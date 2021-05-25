@@ -4,4 +4,4 @@ Test application displaying global electric vehicle data charts. Built with Node
 
 # View Demo
 
-Visit <a href="https://oecd-iea.mybluemix.net/">https://oecd-iea.mybluemix.net/</a>
+Visit <a href="https://evd.ianharvey.ca/">https://evd.ianharvey.ca/</a>
